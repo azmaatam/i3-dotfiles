@@ -1,10 +1,31 @@
+![Platform](https://img.shields.io/badge/Platform-EndeavourOS-blue)
+![WM](https://img.shields.io/badge/WM-i3-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 # i3 Dotfiles
 
 A minimalist and productivity-focused i3wm setup for EndeavourOS.
 
+## Memory Usage
+
+Idle RAM usage:
+
+~866 MB
+
 ## Preview
 
 ![Desktop](screenshots/desktop.png)
+
+## System Information
+
+![Neofetch](screenshots/neofetch.png)
+
+## Tested On
+
+- EndeavourOS
+- i3wm
+- X11
+- Polybar
+- Picom
 
 ## Features
 
@@ -132,7 +153,7 @@ A minimalist and productivity-focused i3wm setup for EndeavourOS.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/i3-dotfiles.git
+git clone https://github.com/azmaatam/i3-dotfiles.git
 cd i3-dotfiles
 chmod +x scripts/install.sh
 ./scripts/install.sh
